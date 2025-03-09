@@ -16,7 +16,8 @@ Octaview is a B2B SaaS platform designed to revolutionize the hiring process. It
 
 ## Architecture Overview:
 
-[Insert your diagram here]
+![Alt text](https://octaview-data.s3.ap-south-1.amazonaws.com/images/diagram-export-3-6-2025-9_53_04-PM.png)
+
 
 ## Technical Details:
 
@@ -54,3 +55,39 @@ Here are some key repositories related to the Octaview project:
 
 ```bash
 npm install octaview-library
+```
+### 2. Integrate the library into your website:
+```
+import Octaview from 'octaview-library';
+
+// Initialize Octaview with your API key
+const octaview = new Octaview('YOUR_API_KEY');
+
+// Render the job application UI
+octaview.render('#octaview-container');
+```
+### 3. Configure API Key Authentication:
+Obtain your API key from the Octaview dashboard.
+Use the API key for authentication when integrating the library.
+
+### 4. Secure Payment Integration (Stripe):
+Each applicant submission costs one token. Integrate Stripe’s payment gateway for secure payment handling.
+
+## Getting Started:
+-Sign up for an Octaview account:
+ Visit [coctview.tech] to create your account.
+
+-Create and manage job listings:
+ Use the Octaview dashboard to add and manage your job openings.
+
+-Integrate the library into your website:
+ Follow the installation and integration steps outlined above.
+
+ Start hiring!
+
+## License:
+  [Your License]
+
+## Support:
+For any questions or support, please contact us at [mammen999@gmail.com].
+
