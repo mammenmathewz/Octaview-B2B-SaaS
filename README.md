@@ -33,20 +33,20 @@ Octaview is a B2B SaaS platform designed to revolutionize the hiring process. It
 
 Here are some key repositories related to the Octaview project:
 
-1. **[Octaview-library]([https://github.com/your-username/octaview-library](https://github.com/mammenmathewz/octaview-client-pkg))**  
-   This repository contains the core npm package that allows companies to integrate Octaview's job application UI into their websites.
+1. **[Octaview-library](https://github.com/mammenmathewz/octaview-client-pkg)**  
+   This repository contains the core npm package that enables companies to integrate Octaview's job application UI seamlessly into their websites.
 
-2. **[Octaview-backend]([https://github.com/your-username/octaview-backend](https://github.com/mammenmathewz/OCTAVIEW))**  
-   The backend server that powers Octaview. Built with Express.js, it handles all candidate applications, job management, and API key authentication.
+2. **[Octaview-backend](https://github.com/mammenmathewz/OCTAVIEW)**  
+   The backend server that powers Octaview. Built with Express.js, it handles candidate applications, job management, API key validation, and integrates with other services like Stripe for secure payment processing.
 
-3. **[Octview-cloud-compiler]([https://github.com/mammenmathewz/octview-cloud-compiler))**  
-   This repository contains the video interviewing platform, including real-time collaborative code editing using Monaco Editor and Yjs.
+3. **[Octview-cloud-compiler](https://github.com/mammenmathewz/octview-cloud-compiler)**  
+   This repository contains the video interviewing platform for Octaview, which includes real-time collaborative code editing with Monaco Editor and Yjs for technical interviews.
 
-4. **[octaview-frontend-ui]([https://github.com/mammenmathewz/OCTAVIEW-CLIENT))**  
-   The UI components and React-based frontend for managing job applications and interviews.
+4. **[octaview-frontend-ui](https://github.com/mammenmathewz/OCTAVIEW-CLIENT)**  
+   The React-based frontend that powers the user interface for job applications, candidate management, and interview scheduling.
 
-5. **[Crdt-signaler-yjs]([https://github.com/mammenmathewz/crdt-signaler-yjs))**  
-   This repository contains the documentation and guides on how to set up and integrate Octaview into your company's website.
+5. **[Crdt-signaler-yjs](https://github.com/mammenmathewz/crdt-signaler-yjs)**  
+   A repository for setting up and integrating the CRDT signaling server using Yjs, which powers real-time collaborative editing and communication during video interviews.
 
 ## Installation and Integration:
 
