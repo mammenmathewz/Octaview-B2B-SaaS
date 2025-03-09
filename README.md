@@ -2,6 +2,11 @@
 
 Octaview is a B2B SaaS platform designed to revolutionize the hiring process. It provides a comprehensive suite of tools for managing job listings, candidate applications, interviews, and more, all seamlessly integrated into your existing company website.
 
+## Architecture Overview:
+
+![Alt text](https://octaview-data.s3.ap-south-1.amazonaws.com/images/diagram-export-3-6-2025-9_53_04-PM.png)
+
+
 ## Key Features:
 
 - **Effortless Integration**: Embed Octaview's job application UI directly into your website using our easy-to-install npm package.
@@ -15,10 +20,6 @@ Octaview is a B2B SaaS platform designed to revolutionize the hiring process. It
 - **Robust Infrastructure**: Built on a scalable and reliable architecture utilizing AWS, GCP, Vercel, and other leading technologies.
 - **Dockerized Deployment**: All components are containerized using Docker for easy deployment and scalability.
 - **Multi-Cloud Architecture**: Leverages the strengths of different cloud providers (AWS, GCP) for optimized performance and cost-efficiency.
-
-## Architecture Overview:
-
-![Alt text](https://octaview-data.s3.ap-south-1.amazonaws.com/images/diagram-export-3-6-2025-9_53_04-PM.png)
 
 ## Technical Details:
 
